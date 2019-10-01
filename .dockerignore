@@ -1,0 +1,5 @@
+*.*
+!entrypoint.sh
+!environment
+!bootstrap.sh
+!supervisord.conf
