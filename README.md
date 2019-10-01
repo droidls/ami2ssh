@@ -16,7 +16,9 @@ $ docker run --rm -p 10022:22 -e ROOT_PW=password_to_login  -t amazonlinux-sshd:
 
 ## ENV
 
-- `ROOT_PW`: password for root login (default: `rooooot`)
+- `ROOT_PW`: password for root login (default: `mypassword`)
+
+```
 
 Release Notes
 
