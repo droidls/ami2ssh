@@ -2,7 +2,7 @@
 
 install -d /root/.ssh -m 0700
 
-yum -y update;
+yum -y update
 
 yum install -y \
 		openssh-server \
